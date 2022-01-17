@@ -180,6 +180,24 @@ ul.skills {
   background: #0399ff;
 }
 
+blockquote {
+  color: rgb(61, 61, 61);
+  background-color: #fceeec;
+  max-width: 100%;
+  padding: 1.5em 2em;
+  margin: 3em 1.5em;
+  border-radius: 6px;
+  border-bottom: 4px solid #999;
+  font-style: italic;
+}
+
+blockquote footer {
+  font-size: inherit;
+  font-style: normal;
+  padding: 0;
+  margin: 0;
+}
+
 footer {
   width: 100%;
   min-height: 30px;
